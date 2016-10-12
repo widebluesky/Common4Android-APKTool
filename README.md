@@ -1,5 +1,7 @@
 # Common4Android-APKTool v0.1.0
 
+Android APK分析、反编译工具集合（含热更新补丁包生成）。
+
 ## 如何使用
 
 Mac系统：startup.sh
