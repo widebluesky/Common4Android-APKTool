@@ -1,5 +1,12 @@
 # Common4Android-APKTool v0.1.0
 
+## 如何使用
+
+Mac系统：startup.sh
+
+Window系统：startup.bat
+
+Linux系统：暂未支持，如有需要可联系作者或提交ISSUES。
 
 ## APK操作
 
