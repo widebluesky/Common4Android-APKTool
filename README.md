@@ -6,7 +6,7 @@ Mac系统：startup.sh
 
 Window系统：startup.bat
 
-Linux系统：暂未支持，如有需要可联系作者或提交ISSUES。
+Linux系统：暂未支持，如有需要可联系作者或提交ISSUE。
 
 ## APK操作
 
@@ -31,6 +31,8 @@ Linux系统：暂未支持，如有需要可联系作者或提交ISSUES。
 ## Patch操作（热更新补丁生成）
 
 - 热更新补丁包生成
+  注：热更新补丁包加载，需结合Common4Android框架HotFixManager使用。
+
 
 <p align="center" >
   <img width="800" src="https://github.com/widebluesky/Common4Android-APKTool/blob/gh-pages/res/screen_shot_03.png?raw=true">
