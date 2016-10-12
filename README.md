@@ -6,7 +6,7 @@ Mac系统：startup.sh
 
 Window系统：startup.bat
 
-Linux系统：暂未支持，如有需要可联系作者或提交ISSUE。
+Linux系统：暂未支持，如有需要请联系作者或提交ISSUE。
 
 ## APK操作
 
