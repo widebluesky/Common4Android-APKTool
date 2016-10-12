@@ -31,8 +31,7 @@ Linux系统：暂未支持，如有需要请联系作者或提交ISSUE。
 ## Patch操作（热更新补丁生成）
 
 - 热更新补丁包生成
-- 注：热更新补丁包加载，需结合Common4Android框架HotFixManager功能使用。
-
+- 注：热更新补丁包加载，需结合 [Common4Android](https://github.com/widebluesky/Common4Android)框架HotFixManager功能使用。
 
 <p align="center" >
   <img width="800" src="https://github.com/widebluesky/Common4Android-APKTool/blob/gh-pages/res/screen_shot_03.png?raw=true">
