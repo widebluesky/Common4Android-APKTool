@@ -10,7 +10,7 @@ Android APK分析、反编译工具集合（含热更新补丁包生成）。
   
   - Linux系统：暂未支持，如有需要请联系作者或提交ISSUE。
 
-注：请确保您的环境已安装Java、AndroidSDK，并配置相应的环境变量JAVA_HOME、ANDROID_SDK_HOME。
+  注：请确保您的环境已安装Java、AndroidSDK，并配置相应的环境变量JAVA_HOME、ANDROID_SDK_HOME。
 
 ## APK操作
 
