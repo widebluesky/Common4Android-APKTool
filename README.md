@@ -4,9 +4,9 @@ Android APK分析、反编译工具集合（含热更新补丁包生成）。
 
 ## 如何使用
 
-Mac系统：startup.sh
+Mac系统：[APKTool4Mac](https://github.com/widebluesky/Common4Android-APKTool/raw/gh-pages/res/apktool4mac_0.1.0.zip)
 
-Window系统：startup.bat
+Window系统：[APKTool4Win](https://github.com/widebluesky/Common4Android-APKTool/raw/gh-pages/res/apktool4win_0.1.0.zip)
 
 Linux系统：暂未支持，如有需要请联系作者或提交ISSUE。
 
